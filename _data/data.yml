@@ -15,7 +15,7 @@ languages:
   - idiom: Danish
 
 education:
-  - degree: BSc in Machine Learning and Data Science 
+  - degree: BSc in Machine Learning \n and Data Science 
     time: 2021-2024
     university: University of Copenhagen
 
